@@ -4,5 +4,6 @@ Pour moi le choix du joueur qui commence se décide à "pierre, feuille, ciseaux
 Si tu choisis une case qui est déjà prise, j'ai codé de la sorte que tu perds ton tour, l'action est prise en compte mais rien n'est fait et on passe à l'autre joueur.
 Il y a un replay à la fin qui reset tout.
 Je n'ai pas de classe Show, j'ai une méthode display dans la classe Board qui fait le taff.
+Le jeu se lance avec un simple $ruby app.rb dans le dossier natif et c'est tout bon !
 
 Amuse-toi bien !
